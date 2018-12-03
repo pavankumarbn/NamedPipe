@@ -1,2 +1,2 @@
 # NamedPipe
-This repository contains code of Server in Python and Client in C++ for Inter Process Communication (IPC) using Named Pipe.
+This allows you to communicate between Server (code in Python) and Client (in C++) to do Inter Process Communication (IPC) using Named Pipe.
